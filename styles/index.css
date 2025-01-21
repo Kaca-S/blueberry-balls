@@ -1,6 +1,25 @@
-
-
 p {
-    color:blueviolet;
-    background-color: aqua;
+    color:purple; 
+    background-color: rgb(242, 216, 184, 0.6);
+    font-size: 20px;
+}
+
+body {
+    background-image: url(../images/cute-cat.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: chocolate;
+    border-bottom: 5px solid purple;
+    border-radius: 30px;
+}
+h4 {
+    color:chartreuse;
+    font-size: 30px;
 }
